@@ -8,7 +8,6 @@ This repository contains a simple To-Do application built with ReactJS, demonstr
 - **View Tasks:** Displays all added tasks in a list format.
 - **Delete Task:** Each task has a delete button that, when clicked, removes the task from the list.
 - **Edit Task:** Each task has an edit button that, when clicked, opens a popup to edit the task.
-- **Persistent Storage:** Tasks are saved to local storage so they are not lost on page reload.
 
 ## Bonus Features (Optional)
 
@@ -19,6 +18,7 @@ This repository contains a simple To-Do application built with ReactJS, demonstr
 - **HTML** for structuring the layout.
 - **CSS** for styling the application (with optional use of CSS frameworks like Bootstrap or Material-UI).
 - **JavaScript (ES6)** for application logic.
+- **TailwindCSS ** for Styling the app.
 - **ReactJS** for building the user interface using functional components and hooks.
 - **Redux** for state management.
 
@@ -34,3 +34,10 @@ This repository contains a simple To-Do application built with ReactJS, demonstr
    ```bash
    git clone https://github.com/your-username/quad-b-todos-app.git
    cd quad-b-todos-app
+   
+2. Install the node modules:
+   ```bash
+   npm install
+   npm run dev
+
+   
