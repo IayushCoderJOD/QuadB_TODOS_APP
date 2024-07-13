@@ -46,7 +46,7 @@ This repository contains a simple To-Do application built with ReactJS, demonstr
 1. Clone the repository:
    ```bash
    git clone https://github.com/IayushCoderJOD/QuadB_TODOS_APP.git
-   cd quad-b-todos-app
+   cd quadb-todos-app
    
 2. Install the node modules and run the app:
    ```bash
